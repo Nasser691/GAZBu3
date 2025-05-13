@@ -29,7 +29,7 @@ bot = commands.Bot(command_prefix='!', intents=intents)
 KING_IDS = ["361039024288432138", "691265105878319195"]
 
 # روم صوتي مخصص يدخل فيه البوت دائماً
-VC_CHANNEL_ID = 1256765406069391400  # ← حط هنا ID الروم الصوتي
+VC_CHANNEL_ID = 1250022289303539813  # ← حط هنا ID الروم الصوتي
 
 @bot.event
 async def on_ready():
